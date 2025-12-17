@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "title": "User login error",
+        "description": "The user cannot log in with valid credentials.",
+        "priority": "high",
+        "status": "open",
+        "price": 100,
+        "created_at": "2025-01-10 09:15:00"
+    },
+    {
+        "id": 2,
+        "title": "Blank dashboard screen",
+        "description": "A blank screen appears when accessing the main dashboard.",
+        "priority": "medium",
+        "status": "in_progress",
+        "price": 50,
+        "created_at": "2025-01-11 10:20:00"
+    },
+    {
+        "id": 3,
+        "title": "Update contact details",
+        "description": "The client requests an update of email and phone number.",
+        "priority": "low",
+        "status": "closed",
+        "price": 20,
+        "created_at": "2025-01-11 16:45:00"
+    },
+    {
+        "id": 4,
+        "title": "500 error when creating order",
+        "description": "An internal server error occurs when creating an order.",
+        "priority": "high",
+        "status": "open",
+        "price": 100,
+        "created_at": "2025-01-12 08:30:00"
+    },
+    {
+        "id": 5,
+        "title": "Update legal text",
+        "description": "Modify the legal notice text according to new regulations.",
+        "priority": "low",
+        "status": "closed",
+        "price": 20,
+        "created_at": "2025-01-12 12:10:00"
+    },
+    {
+        "id": 6,
+        "title": "Slow page loading",
+        "description": "Several pages take too long to load.",
+        "priority": "medium",
+        "status": "in_progress",
+        "price": 50,
+        "created_at": "2025-01-13 09:00:00"
+    },
+    {
+        "id": 7,
+        "title": "Broken image links",
+        "description": "Some images are not displayed correctly on the website.",
+        "priority": "low",
+        "status": "open",
+        "price": 20,
+        "created_at": "2025-01-13 11:40:00"
+    },
+    {
+        "id": 8,
+        "title": "Password reset email not sent",
+        "description": "Users do not receive the password reset email.",
+        "priority": "high",
+        "status": "in_progress",
+        "price": 100,
+        "created_at": "2025-01-14 08:55:00"
+    },
+    {
+        "id": 9,
+        "title": "Add new user role",
+        "description": "Request to add a new role to the user management system.",
+        "priority": "medium",
+        "status": "closed",
+        "price": 50,
+        "created_at": "2025-01-14 15:30:00"
+    },
+    {
+        "id": 10,
+        "title": "Export data to CSV",
+        "description": "Enable data export functionality in CSV format.",
+        "priority": "low",
+        "status": "closed",
+        "price": 20,
+        "created_at": "2025-01-15 10:00:00"
+    },
+    {
+        "id": 11,
+        "title": "Server is down",
+        "description": "the server from production is failing, error 500",
+        "priority": "high",
+        "status": "Open",
+        "price": 100,
+        "created_at": "2025-12-17 16:20:53"
+    }
+]
