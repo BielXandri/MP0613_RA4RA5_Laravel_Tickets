@@ -85,7 +85,7 @@
         "title": "Server is down",
         "description": "the server from production is failing, error 500",
         "priority": "high",
-        "status": "Open",
+        "status": "in_progress",
         "price": 100,
         "created_at": "2025-12-17 16:20:53"
     },
@@ -94,8 +94,17 @@
         "title": "Biel",
         "description": "Biel",
         "priority": "medium",
-        "status": "open",
+        "status": "in_progress",
         "price": 50,
         "created_at": "2026-01-26 16:50:42"
+    },
+    {
+        "id": 13,
+        "title": "biel",
+        "description": "biel",
+        "priority": "medium",
+        "status": "open",
+        "price": 50,
+        "created_at": "2026-01-30 17:44:31"
     }
 ]
